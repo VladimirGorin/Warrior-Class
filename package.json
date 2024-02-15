@@ -1,0 +1,16 @@
+{
+  "name": "warriorclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/main.js",
+    "build": "tsc && npm start"
+  },
+  "keywords": [],
+  "author": "VladimirGorin",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
